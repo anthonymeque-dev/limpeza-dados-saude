@@ -1,0 +1,601 @@
+id_caso,data_notificacao,provincia,doenca,sexo,idade,hospitalizado,dias_internamento,desfecho,regiao,populacao
+C0001,2025-01-01,Cabo Delgado,Diarreia aguda,Feminino,1,Sim,4,Recuperado,Norte,2450000
+C0002,2025-01-01,Gaza,Cólera,Feminino,43,Sim,3,Recuperado,Sul,1560000
+C0003,2025-01-01,Sofala,Cólera,Feminino,49,Não,,Recuperado,Centro,2900000
+C0004,2025-01-02,Tete,Diarreia aguda,Masculino,2,Sim,3,Recuperado,Centro,3400000
+C0005,2025-01-02,Gaza,Tuberculose,Masculino,23,Não,,Em tratamento,Sul,1560000
+C0006,2025-01-02,Cabo Delgado,Diarreia aguda,Feminino,52,Não,,Recuperado,Norte,2450000
+C0007,2025-01-03,Tete,Pneumonia,Masculino,2,Sim,5,Recuperado,Centro,3400000
+C0008,2025-01-03,Cabo Delgado,Cólera,Feminino,75,Sim,3,,Norte,2450000
+C0009,2025-01-03,Gaza,Malária,Feminino,40,Não,,Recuperado,Sul,1560000
+C0010,2025-01-04,Nampula,Malária,Feminino,4,Sim,7,Recuperado,Norte,6500000
+C0011,2025-01-04,Cabo Delgado,Cólera,Masculino,63,Sim,3,Recuperado,Norte,2450000
+C0012,2025-01-04,Zambézia,Malária,Masculino,21,Não,,Recuperado,Centro,6000000
+C0013,2025-01-05,Sofala,Cólera,Masculino,47,Sim,1,Recuperado,Centro,2900000
+C0014,2025-01-05,Nampula,Malária,Masculino,1,Sim,2,Recuperado,Norte,6500000
+C0015,2025-01-05,Sofala,Malária,Feminino,4,Não,,Recuperado,Centro,2900000
+C0016,2025-01-06,Zambézia,Malária,Masculino,4,Não,,Recuperado,Centro,6000000
+C0017,2025-01-06,Inhambane,Malária,Masculino,10,Não,,Recuperado,Sul,1620000
+C0018,2025-01-06,Tete,Malária,Masculino,0,Sim,5,Recuperado,Centro,3400000
+C0019,2025-01-06,Cabo Delgado,Malária,Feminino,0,Sim,6,Recuperado,Norte,2450000
+C0020,2025-01-06,Tete,Diarreia aguda,Masculino,,Não,,Recuperado,Centro,3400000
+C0021,2025-01-06,Nampula,Malária,Masculino,22,Sim,6,Recuperado,Norte,6500000
+C0022,2025-01-07,Maputo Cidade,Diarreia aguda,Feminino,1,Não,,Recuperado,Sul,1150000
+C0023,2025-01-07,Cabo Delgado,Malária,Feminino,8,Não,,Recuperado,Norte,2450000
+C0024,2025-01-07,Nampula,Pneumonia,,3,Sim,13,Recuperado,Norte,6500000
+C0025,2025-01-07,Niassa,Pneumonia,Masculino,20,Sim,7,Em tratamento,Norte,1950000
+C0026,2025-01-08,Sofala,Diarreia aguda,Feminino,3,Sim,6,Recuperado,Centro,2900000
+C0027,2025-01-08,Zambézia,Cólera,Feminino,42,Não,,Recuperado,Centro,6000000
+C0028,2025-01-08,Sofala,Malária,Masculino,50,Sim,4,Recuperado,Centro,2900000
+C0029,2025-01-08,Niassa,Tuberculose,Masculino,32,Não,,Em tratamento,Norte,1950000
+C0030,2025-01-08,Sofala,Pneumonia,Masculino,11,Sim,8,Recuperado,Centro,2900000
+C0031,2025-01-09,Nampula,Sarampo,Masculino,,Não,,Recuperado,Norte,6500000
+C0032,2025-01-09,Zambézia,Diarreia aguda,Feminino,36,Não,,Recuperado,Centro,6000000
+C0033,2025-01-09,Maputo Província,Malária,Masculino,43,Não,,Recuperado,Sul,2350000
+C0034,2025-01-09,Sofala,Cólera,Feminino,87,Não,,Recuperado,Centro,2900000
+C0035,2025-01-10,Cabo Delgado,Malária,Feminino,11,Não,,Recuperado,Norte,2450000
+C0036,2025-01-11,Sofala,Cólera,Feminino,52,Sim,2,Recuperado,Centro,2900000
+C0037,2025-01-11,Nampula,Diarreia aguda,Masculino,85,Não,,Recuperado,Norte,6500000
+C0038,2025-01-11,Zambézia,Diarreia aguda,Feminino,0,Sim,2,Recuperado,Centro,6000000
+C0039,2025-01-12,Inhambane,Sarampo,Masculino,12,Não,,Recuperado,Sul,1620000
+C0040,2025-01-12,Zambézia,Malária,Feminino,1,Sim,5,Óbito,Centro,6000000
+C0041,2025-01-13,Niassa,Pneumonia,Feminino,71,Não,,Recuperado,Norte,1950000
+C0042,2025-01-13,Cabo Delgado,Diarreia aguda,Feminino,4,Não,,Recuperado,Norte,2450000
+C0043,2025-01-14,Nampula,Malária,Masculino,84,Não,,Recuperado,Norte,6500000
+C0044,2025-01-15,Niassa,Malária,Feminino,4,Não,,Recuperado,Norte,1950000
+C0045,2025-01-15,Niassa,Sarampo,Feminino,1,Não,,Recuperado,Norte,1950000
+C0046,2025-01-16,Zambézia,Cólera,Feminino,50,Sim,2,Recuperado,Centro,6000000
+C0047,2025-01-16,Sofala,Cólera,Feminino,31,Sim,3,Recuperado,Centro,2900000
+C0048,2025-01-16,Cabo Delgado,Malária,Feminino,10,Não,,Recuperado,Norte,2450000
+C0049,2025-01-17,Zambézia,Malária,Feminino,20,Não,,Recuperado,Centro,6000000
+C0050,2025-01-18,Cabo Delgado,Cólera,Masculino,51,Sim,4,Recuperado,Norte,2450000
+C0051,2025-01-18,Manica,Diarreia aguda,Masculino,4,Não,,Recuperado,Centro,2300000
+C0052,2025-01-18,Cabo Delgado,Cólera,Masculino,35,Sim,2,Recuperado,Norte,2450000
+C0053,2025-01-19,Manica,Diarreia aguda,Feminino,15,Não,,Em tratamento,Centro,2300000
+C0054,2025-01-20,Nampula,Cólera,Feminino,13,Não,,Recuperado,Norte,6500000
+C0055,2025-01-20,Nampula,Sarampo,Masculino,2,Não,,Recuperado,Norte,6500000
+C0056,2025-01-21,Manica,Sarampo,Masculino,0,Não,,Recuperado,Centro,2300000
+C0057,2025-01-21,Cabo Delgado,Cólera,Masculino,8,Sim,7,Recuperado,Norte,2450000
+C0058,2025-01-21,Zambézia,Tuberculose,Masculino,90,Sim,14,Em tratamento,Centro,6000000
+C0059,2025-01-22,Nampula,Malária,Masculino,0,Sim,6,Recuperado,Norte,6500000
+C0060,2025-01-23,Zambézia,Cólera,Masculino,71,Sim,1,Óbito,Centro,6000000
+C0061,2025-01-23,Tete,Diarreia aguda,Feminino,12,Não,,Recuperado,Centro,3400000
+C0062,2025-01-23,Zambézia,Cólera,Masculino,33,Sim,2,Recuperado,Centro,6000000
+C0063,2025-01-23,Zambézia,Tuberculose,Masculino,59,Sim,4,,Centro,6000000
+C0064,2025-01-23,Maputo Cidade,Malária,Masculino,5,Não,,Recuperado,Sul,1150000
+C0065,2025-01-23,Inhambane,Malária,Masculino,5,Não,,Recuperado,Sul,1620000
+C0066,2025-01-24,Sofala,Diarreia aguda,Masculino,47,Não,,Recuperado,Centro,2900000
+C0067,2025-01-24,Cabo Delgado,Malária,Feminino,35,Sim,2,Recuperado,Norte,2450000
+C0068,2025-01-25,Nampula,Cólera,Feminino,43,Sim,2,Óbito,Norte,6500000
+C0069,2025-01-25,Zambézia,Malária,Masculino,78,Sim,4,Recuperado,Centro,6000000
+C0070,2025-01-25,Zambézia,Malária,Masculino,0,Não,,Em tratamento,Centro,6000000
+C0071,2025-01-25,Nampula,Malária,Feminino,1,Sim,6,Recuperado,Norte,6500000
+C0072,2025-01-26,Zambézia,Diarreia aguda,Feminino,47,Não,,Recuperado,Centro,6000000
+C0073,2025-01-26,Nampula,Tuberculose,Masculino,22,Não,,Recuperado,Norte,6500000
+C0074,2025-01-26,Nampula,Malária,Feminino,2,Não,,Recuperado,Norte,6500000
+C0075,2025-01-27,Nampula,Malária,Masculino,5,Sim,7,Óbito,Norte,6500000
+C0076,2025-01-27,Sofala,Pneumonia,Feminino,11,Não,,Recuperado,Centro,2900000
+C0077,2025-01-27,Inhambane,Pneumonia,Feminino,70,Sim,10,Recuperado,Sul,1620000
+C0078,2025-01-27,Tete,Diarreia aguda,Feminino,14,Não,,Recuperado,Centro,3400000
+C0079,2025-01-27,Cabo Delgado,Cólera,Feminino,47,Sim,1,Óbito,Norte,2450000
+C0080,2025-01-27,Tete,Tuberculose,Masculino,4,Sim,15,Em tratamento,Centro,3400000
+C0081,2025-01-27,Nampula,Cólera,Feminino,35,Não,,Recuperado,Norte,6500000
+C0082,2025-01-27,Nampula,Cólera,Feminino,20,Sim,3,Recuperado,Norte,6500000
+C0083,2025-01-28,Gaza,Malária,Masculino,21,Sim,4,Recuperado,Sul,1560000
+C0084,2025-01-28,Niassa,Tuberculose,Feminino,17,Sim,15,Recuperado,Norte,1950000
+C0085,2025-02-02,Nampula,Malária,Feminino,1,Sim,5,Recuperado,Norte,6500000
+C0086,2025-02-03,Cabo Delgado,Cólera,Feminino,12,Sim,2,Recuperado,Norte,2450000
+C0087,2025-02-04,Nampula,Cólera,Masculino,43,Sim,3,Recuperado,Norte,6500000
+C0088,2025-02-04,Zambézia,Diarreia aguda,Masculino,2,Não,,Recuperado,Centro,6000000
+C0089,2025-02-05,Gaza,Malária,Masculino,10,Não,,Em tratamento,Sul,1560000
+C0090,2025-02-06,Zambézia,Malária,Masculino,21,Não,,,Centro,6000000
+C0091,2025-02-06,Tete,Malária,Feminino,50,Não,,Recuperado,Centro,3400000
+C0092,2025-02-06,Zambézia,Diarreia aguda,Feminino,6,Não,,Recuperado,Centro,6000000
+C0093,2025-02-07,Cabo Delgado,Cólera,Masculino,20,Sim,14,Recuperado,Norte,2450000
+C0094,2025-02-07,Sofala,Tuberculose,Masculino,31,Não,,Em tratamento,Centro,2900000
+C0095,2025-02-08,Zambézia,Pneumonia,Masculino,64,Não,,Recuperado,Centro,6000000
+C0096,2025-02-08,Niassa,Malária,Masculino,26,Sim,4,Recuperado,Norte,1950000
+C0097,2025-02-09,Nampula,Tuberculose,Masculino,38,Sim,3,Recuperado,Norte,6500000
+C0098,2025-02-09,Sofala,Malária,Masculino,36,Não,,Recuperado,Centro,2900000
+C0099,2025-02-11,Cabo Delgado,Cólera,Feminino,63,Sim,1,Óbito,Norte,2450000
+C0100,2025-02-13,Gaza,Tuberculose,Feminino,54,Sim,5,Em tratamento,Sul,1560000
+C0101,2025-02-14,Sofala,Diarreia aguda,Masculino,68,Sim,16,Recuperado,Centro,2900000
+C0102,2025-02-14,Nampula,Sarampo,,1,Sim,3,Recuperado,Norte,6500000
+C0103,2025-02-14,Tete,Diarreia aguda,Feminino,3,Não,,Recuperado,Centro,3400000
+C0104,2025-02-14,Nampula,Diarreia aguda,Feminino,30,Não,,Recuperado,Norte,6500000
+C0105,2025-02-15,Cabo Delgado,Cólera,,35,Não,,Recuperado,Norte,2450000
+C0106,2025-02-15,Inhambane,Pneumonia,Feminino,,Sim,1,Óbito,Sul,1620000
+C0107,2025-02-15,Zambézia,Diarreia aguda,Masculino,2,Não,,Recuperado,Centro,6000000
+C0108,2025-02-16,Tete,Cólera,Feminino,15,Não,,Recuperado,Centro,3400000
+C0109,2025-02-16,Manica,Malária,Masculino,83,Não,,Recuperado,Centro,2300000
+C0110,2025-02-16,Tete,Malária,Feminino,10,Sim,2,Recuperado,Centro,3400000
+C0111,2025-02-17,Zambézia,Diarreia aguda,Feminino,3,Não,,Recuperado,Centro,6000000
+C0112,2025-02-17,Cabo Delgado,Malária,Masculino,7,Sim,7,Recuperado,Norte,2450000
+C0113,2025-02-17,Zambézia,Cólera,Masculino,46,Sim,4,Recuperado,Centro,6000000
+C0114,2025-02-18,Inhambane,Diarreia aguda,Masculino,40,Não,,Recuperado,Sul,1620000
+C0115,2025-02-18,Gaza,Diarreia aguda,Feminino,4,Sim,1,Recuperado,Sul,1560000
+C0116,2025-02-18,Manica,Cólera,Masculino,29,Sim,5,Recuperado,Centro,2300000
+C0117,2025-02-19,Nampula,Malária,Masculino,2,Sim,4,Recuperado,Norte,6500000
+C0118,2025-02-19,Tete,Diarreia aguda,Masculino,3,Não,,Recuperado,Centro,3400000
+C0119,2025-02-20,Inhambane,Malária,Masculino,4,Sim,12,Recuperado,Sul,1620000
+C0120,2025-02-21,Sofala,Malária,Feminino,86,Não,,Recuperado,Centro,2900000
+C0121,2025-02-21,Tete,Pneumonia,Masculino,2,Não,,Recuperado,Centro,3400000
+C0122,2025-02-21,Zambézia,Pneumonia,Feminino,3,Não,,Recuperado,Centro,6000000
+C0123,2025-02-22,Gaza,Cólera,Feminino,27,Sim,4,Recuperado,Sul,1560000
+C0124,2025-02-23,Zambézia,Tuberculose,Feminino,21,Sim,33,Em tratamento,Centro,6000000
+C0125,2025-02-24,Manica,Sarampo,Masculino,1,Sim,5,Recuperado,Centro,2300000
+C0126,2025-02-25,Tete,Malária,Feminino,26,Não,,Recuperado,Centro,3400000
+C0127,2025-02-26,Nampula,Malária,Masculino,4,Não,,Recuperado,Norte,6500000
+C0128,2025-02-26,Zambézia,Malária,Masculino,3,Não,,Recuperado,Centro,6000000
+C0129,2025-02-26,Manica,Cólera,Feminino,37,Sim,4,Recuperado,Centro,2300000
+C0130,2025-02-26,Nampula,Malária,Masculino,12,Não,,Recuperado,Norte,6500000
+C0131,2025-02-26,Maputo Província,Pneumonia,Masculino,9,Não,,Recuperado,Sul,2350000
+C0132,2025-02-27,Gaza,Diarreia aguda,Masculino,3,Não,,Recuperado,Sul,1560000
+C0133,2025-02-27,Cabo Delgado,Cólera,Feminino,48,Sim,5,Recuperado,Norte,2450000
+C0134,2025-02-28,Nampula,Pneumonia,Feminino,52,Sim,12,Recuperado,Norte,6500000
+C0135,2025-02-28,Nampula,Malária,Masculino,7,Não,,Recuperado,Norte,6500000
+C0136,2025-02-28,Nampula,Pneumonia,Masculino,90,Não,,Recuperado,Norte,6500000
+C0137,2025-02-28,Maputo Cidade,Tuberculose,Masculino,,Não,,Recuperado,Sul,1150000
+C0138,2025-02-28,Manica,Diarreia aguda,Masculino,38,Não,,Recuperado,Centro,2300000
+C0139,2025-03-01,Maputo Província,Pneumonia,Masculino,2,Sim,9,Recuperado,Sul,2350000
+C0140,2025-03-01,Tete,Malária,Feminino,3,Não,,Recuperado,Centro,3400000
+C0141,2025-03-01,Zambézia,Diarreia aguda,Masculino,25,Sim,1,Recuperado,Centro,6000000
+C0142,2025-03-03,Sofala,Cólera,Feminino,55,Sim,4,Recuperado,Centro,2900000
+C0143,2025-03-03,Zambézia,Malária,Masculino,61,Não,,Recuperado,Centro,6000000
+C0144,2025-03-03,Niassa,Malária,Masculino,14,Sim,4,Recuperado,Norte,1950000
+C0145,2025-03-03,Maputo Província,Tuberculose,Masculino,38,Sim,14,Em tratamento,Sul,2350000
+C0146,2025-03-03,Zambézia,Diarreia aguda,Feminino,3,Não,,Recuperado,Centro,6000000
+C0147,2025-03-03,Nampula,Cólera,Masculino,,Sim,1,Recuperado,Norte,6500000
+C0148,2025-03-03,Zambézia,Diarreia aguda,Feminino,2,Não,,Recuperado,Centro,6000000
+C0149,2025-03-04,Cabo Delgado,Malária,Feminino,23,Não,,Recuperado,Norte,2450000
+C0150,2025-03-04,Zambézia,Pneumonia,Feminino,2,Não,,Recuperado,Centro,6000000
+C0151,2025-03-04,Nampula,Malária,Masculino,79,Não,,,Norte,6500000
+C0152,2025-03-05,Gaza,Tuberculose,Feminino,20,Sim,9,Em tratamento,Sul,1560000
+C0153,2025-03-06,Tete,Malária,Masculino,36,Sim,6,Recuperado,Centro,3400000
+C0154,2025-03-06,Niassa,Malária,Masculino,15,Sim,10,Recuperado,Norte,1950000
+C0155,2025-03-06,Gaza,Tuberculose,Masculino,33,Não,,Recuperado,Sul,1560000
+C0156,2025-03-08,Zambézia,Cólera,Masculino,11,Sim,2,Recuperado,Centro,6000000
+C0157,2025-03-09,Zambézia,Pneumonia,Masculino,54,Sim,7,Recuperado,Centro,6000000
+C0158,2025-03-09,Cabo Delgado,Malária,Feminino,52,Sim,3,Recuperado,Norte,2450000
+C0159,2025-03-10,Nampula,Malária,Feminino,5,Sim,6,Recuperado,Norte,6500000
+C0160,2025-03-10,Tete,Cólera,Masculino,51,Sim,1,Recuperado,Centro,3400000
+C0161,2025-03-10,Sofala,Malária,Feminino,55,Não,,Recuperado,Centro,2900000
+C0162,2025-03-10,Nampula,Cólera,Feminino,52,Sim,2,Recuperado,Norte,6500000
+C0163,2025-03-12,Cabo Delgado,Malária,Masculino,2,Sim,13,Recuperado,Norte,2450000
+C0164,2025-03-12,Zambézia,Cólera,Masculino,11,Sim,3,Recuperado,Centro,6000000
+C0165,2025-03-12,Maputo Cidade,Diarreia aguda,Masculino,16,Sim,2,Recuperado,Sul,1150000
+C0166,2025-03-13,Inhambane,Malária,Feminino,,Não,,Recuperado,Sul,1620000
+C0167,2025-03-13,Maputo Cidade,Tuberculose,Masculino,31,Não,,Recuperado,Sul,1150000
+C0168,2025-03-13,Sofala,Malária,Masculino,40,Não,,Recuperado,Centro,2900000
+C0169,2025-03-13,Tete,Pneumonia,Masculino,85,Sim,7,Recuperado,Centro,3400000
+C0170,2025-03-14,Tete,Pneumonia,Feminino,2,Não,,Recuperado,Centro,3400000
+C0171,2025-03-14,Niassa,Malária,Masculino,7,Não,,Recuperado,Norte,1950000
+C0172,2025-03-14,Maputo Cidade,Tuberculose,Masculino,26,Não,,Recuperado,Sul,1150000
+C0173,2025-03-14,Cabo Delgado,Cólera,Masculino,46,Sim,2,Recuperado,Norte,2450000
+C0174,2025-03-14,Niassa,Sarampo,Masculino,7,Não,,Recuperado,Norte,1950000
+C0175,2025-03-15,Nampula,Cólera,Feminino,28,Não,,Recuperado,Norte,6500000
+C0176,2025-03-16,Maputo Província,Tuberculose,Masculino,34,Não,,Recuperado,Sul,2350000
+C0177,2025-03-16,Maputo Cidade,Cólera,Masculino,18,Sim,6,,Sul,1150000
+C0178,2025-03-16,Nampula,Malária,Masculino,37,Não,,Recuperado,Norte,6500000
+C0179,2025-03-17,Zambézia,Diarreia aguda,Feminino,1,Sim,4,Recuperado,Centro,6000000
+C0180,2025-03-17,Maputo Província,Tuberculose,Feminino,,Não,,Recuperado,Sul,2350000
+C0181,2025-03-18,Sofala,Malária,Masculino,3,Não,,Recuperado,Centro,2900000
+C0182,2025-03-18,Tete,Pneumonia,Feminino,25,Não,,Recuperado,Centro,3400000
+C0183,2025-03-18,Zambézia,Diarreia aguda,Masculino,3,Não,,Recuperado,Centro,6000000
+C0184,2025-03-18,Cabo Delgado,Sarampo,Feminino,3,Sim,10,Recuperado,Norte,2450000
+C0185,2025-03-18,Manica,Cólera,,64,Não,,Recuperado,Centro,2300000
+C0186,2025-03-19,Nampula,Malária,Masculino,56,Não,,Recuperado,Norte,6500000
+C0187,2025-03-20,Zambézia,Tuberculose,Feminino,61,Sim,7,Recuperado,Centro,6000000
+C0188,2025-03-21,Maputo Província,Diarreia aguda,Feminino,4,Não,,Recuperado,Sul,2350000
+C0189,2025-03-21,Zambézia,Malária,Masculino,11,Não,,Recuperado,Centro,6000000
+C0190,2025-03-21,Zambézia,Diarreia aguda,Feminino,45,Sim,3,Recuperado,Centro,6000000
+C0191,2025-03-23,Sofala,Pneumonia,Masculino,84,Sim,6,Recuperado,Centro,2900000
+C0192,2025-03-23,Zambézia,Malária,Masculino,33,Não,,Recuperado,Centro,6000000
+C0193,2025-03-23,Zambézia,Malária,Feminino,13,Sim,1,Recuperado,Centro,6000000
+C0194,2025-03-24,Tete,Pneumonia,Feminino,0,Sim,14,Recuperado,Centro,3400000
+C0195,2025-03-24,Nampula,Cólera,Masculino,24,Sim,2,Recuperado,Norte,6500000
+C0196,2025-03-25,Zambézia,Malária,Feminino,0,Não,,Recuperado,Centro,6000000
+C0197,2025-03-26,Cabo Delgado,Malária,Feminino,2,Sim,8,Recuperado,Norte,2450000
+C0198,2025-03-26,Cabo Delgado,Malária,Masculino,3,Sim,6,Recuperado,Norte,2450000
+C0199,2025-03-26,Zambézia,Sarampo,Feminino,,Sim,7,Recuperado,Centro,6000000
+C0200,2025-03-27,Zambézia,Tuberculose,Masculino,30,Não,,,Centro,6000000
+C0201,2025-03-27,Cabo Delgado,Diarreia aguda,Feminino,58,Não,,Recuperado,Norte,2450000
+C0202,2025-03-28,Gaza,Malária,Feminino,7,Sim,6,Recuperado,Sul,1560000
+C0203,2025-03-28,Cabo Delgado,Cólera,Masculino,6,Sim,3,Recuperado,Norte,2450000
+C0204,2025-03-28,Cabo Delgado,Cólera,Masculino,48,Sim,1,Recuperado,Norte,2450000
+C0205,2025-04-01,Inhambane,Tuberculose,Feminino,5,Sim,7,Em tratamento,Sul,1620000
+C0206,2025-04-01,Maputo Província,Cólera,Feminino,48,Não,,Recuperado,Sul,2350000
+C0207,2025-04-04,Nampula,Diarreia aguda,Masculino,53,Não,,Recuperado,Norte,6500000
+C0208,2025-04-05,Zambézia,Malária,Masculino,71,Sim,7,Recuperado,Centro,6000000
+C0209,2025-04-05,Zambézia,Diarreia aguda,Masculino,37,Sim,1,Recuperado,Centro,6000000
+C0210,2025-04-05,Sofala,Cólera,Feminino,76,Sim,1,Recuperado,Centro,2900000
+C0211,2025-04-06,Nampula,Malária,Masculino,73,Não,,Recuperado,Norte,6500000
+C0212,2025-04-06,Tete,Malária,Feminino,6,Não,,Recuperado,Centro,3400000
+C0213,2025-04-07,Cabo Delgado,Pneumonia,Masculino,60,Sim,8,Recuperado,Norte,2450000
+C0214,2025-04-07,Nampula,Tuberculose,Masculino,40,Não,,Em tratamento,Norte,6500000
+C0215,2025-04-07,Manica,Cólera,Masculino,22,Sim,4,Recuperado,Centro,2300000
+C0216,2025-04-07,Maputo Cidade,Diarreia aguda,Masculino,12,Não,,Recuperado,Sul,1150000
+C0217,2025-04-08,Nampula,Pneumonia,Masculino,51,Sim,5,Recuperado,Norte,6500000
+C0218,2025-04-10,Cabo Delgado,Malária,Masculino,53,Sim,1,Recuperado,Norte,2450000
+C0219,2025-04-10,Inhambane,Cólera,Feminino,22,Sim,2,Recuperado,Sul,1620000
+C0220,2025-04-11,Cabo Delgado,Malária,Masculino,14,Não,,Recuperado,Norte,2450000
+C0221,2025-04-11,Sofala,Tuberculose,Masculino,35,Sim,8,Recuperado,Centro,2900000
+C0222,2025-04-11,Zambézia,Malária,Masculino,24,Não,,Recuperado,Centro,6000000
+C0223,2025-04-12,Nampula,Tuberculose,Feminino,35,Não,,Em tratamento,Norte,6500000
+C0224,2025-04-12,Maputo Cidade,Tuberculose,Feminino,83,Não,,Recuperado,Sul,1150000
+C0225,2025-04-12,Nampula,Diarreia aguda,Masculino,52,Não,,Recuperado,Norte,6500000
+C0226,2025-04-13,Tete,Malária,Feminino,19,Não,,Recuperado,Centro,3400000
+C0227,2025-04-13,Gaza,Tuberculose,Masculino,34,Sim,15,Recuperado,Sul,1560000
+C0228,2025-04-13,Cabo Delgado,Malária,Masculino,39,Sim,10,Recuperado,Norte,2450000
+C0229,2025-04-14,Niassa,Malária,Masculino,2,Não,,Recuperado,Norte,1950000
+C0230,2025-04-14,Cabo Delgado,Pneumonia,Masculino,4,Não,,Recuperado,Norte,2450000
+C0231,2025-04-14,Inhambane,Malária,Masculino,,Sim,2,Recuperado,Sul,1620000
+C0232,2025-04-15,Manica,Malária,Masculino,4,Sim,4,Recuperado,Centro,2300000
+C0233,2025-04-16,Manica,Diarreia aguda,Masculino,59,Não,,Recuperado,Centro,2300000
+C0234,2025-04-16,Tete,Malária,Masculino,7,Não,,Recuperado,Centro,3400000
+C0235,2025-04-17,Cabo Delgado,Cólera,Feminino,64,Sim,2,Recuperado,Norte,2450000
+C0236,2025-04-17,Inhambane,Tuberculose,Masculino,11,Sim,6,Recuperado,Sul,1620000
+C0237,2025-04-17,Zambézia,Cólera,Masculino,58,Sim,1,Recuperado,Centro,6000000
+C0238,2025-04-17,Niassa,Pneumonia,Feminino,45,Não,,Recuperado,Norte,1950000
+C0239,2025-04-17,Sofala,Diarreia aguda,Feminino,3,Não,,Recuperado,Centro,2900000
+C0240,2025-04-18,Zambézia,Tuberculose,Masculino,29,Sim,7,Recuperado,Centro,6000000
+C0241,2025-04-18,Zambézia,Malária,Feminino,20,Não,,Recuperado,Centro,6000000
+C0242,2025-04-19,Nampula,Malária,Masculino,4,Não,,Recuperado,Norte,6500000
+C0243,2025-04-20,Nampula,Malária,Masculino,2,Não,,Recuperado,Norte,6500000
+C0244,2025-04-22,Maputo Cidade,Tuberculose,Masculino,27,Sim,13,Em tratamento,Sul,1150000
+C0245,2025-04-22,Sofala,Malária,Masculino,7,Sim,4,Recuperado,Centro,2900000
+C0246,2025-04-22,Manica,Sarampo,Feminino,2,Sim,10,Recuperado,Centro,2300000
+C0247,2025-04-23,Sofala,Diarreia aguda,Feminino,24,Não,,Recuperado,Centro,2900000
+C0248,2025-04-24,Zambézia,Malária,Feminino,14,Sim,4,Recuperado,Centro,6000000
+C0249,2025-04-24,Inhambane,Cólera,Masculino,18,Sim,4,Recuperado,Sul,1620000
+C0250,2025-04-24,Zambézia,Malária,Feminino,9,Não,,Recuperado,Centro,6000000
+C0251,2025-04-25,Nampula,Diarreia aguda,Masculino,50,Sim,11,Recuperado,Norte,6500000
+C0252,2025-04-25,Cabo Delgado,Diarreia aguda,Feminino,2,Sim,3,Recuperado,Norte,2450000
+C0253,2025-04-25,Inhambane,Tuberculose,Feminino,64,Sim,7,Em tratamento,Sul,1620000
+C0254,2025-04-26,Zambézia,Malária,Feminino,42,Não,,Recuperado,Centro,6000000
+C0255,2025-04-26,Manica,Malária,Masculino,5,Não,,Recuperado,Centro,2300000
+C0256,2025-04-26,Nampula,Pneumonia,Masculino,75,Sim,7,Óbito,Norte,6500000
+C0257,2025-04-26,Zambézia,Malária,Masculino,85,Não,,Recuperado,Centro,6000000
+C0258,2025-04-26,Cabo Delgado,Diarreia aguda,Feminino,3,Não,,Recuperado,Norte,2450000
+C0259,2025-04-27,Maputo Cidade,Pneumonia,Feminino,3,Não,,Recuperado,Sul,1150000
+C0260,2025-04-27,Tete,Tuberculose,Feminino,,Não,,Recuperado,Centro,3400000
+C0261,2025-04-28,Maputo Cidade,Pneumonia,Masculino,1,Não,,Recuperado,Sul,1150000
+C0262,2025-04-28,Cabo Delgado,Malária,Feminino,42,Não,,Recuperado,Norte,2450000
+C0263,2025-04-28,Maputo Cidade,Tuberculose,Masculino,59,Não,,Em tratamento,Sul,1150000
+C0264,2025-05-01,Nampula,Diarreia aguda,Masculino,13,Sim,2,Recuperado,Norte,6500000
+C0265,2025-05-01,Niassa,Malária,Feminino,0,Não,,Recuperado,Norte,1950000
+C0266,2025-05-01,Niassa,Malária,Feminino,42,Não,,Recuperado,Norte,1950000
+C0267,2025-05-01,Nampula,Malária,Feminino,1,Sim,5,Recuperado,Norte,6500000
+C0268,2025-05-01,Zambézia,Malária,Masculino,5,Não,,Recuperado,Centro,6000000
+C0269,2025-05-02,Zambézia,Malária,Feminino,6,Não,,Recuperado,Centro,6000000
+C0270,2025-05-02,Maputo Cidade,Pneumonia,Masculino,63,Sim,14,Recuperado,Sul,1150000
+C0271,2025-05-02,Zambézia,Cólera,Masculino,59,Sim,1,Óbito,Centro,6000000
+C0272,2025-05-03,Zambézia,Malária,Masculino,5,Não,,Recuperado,Centro,6000000
+C0273,2025-05-03,Maputo Cidade,Sarampo,Feminino,18,Sim,2,Recuperado,Sul,1150000
+C0274,2025-05-04,Zambézia,Cólera,Feminino,35,Sim,9,Recuperado,Centro,6000000
+C0275,2025-05-05,Sofala,Pneumonia,Feminino,4,Sim,6,Recuperado,Centro,2900000
+C0276,2025-05-05,Tete,Malária,Masculino,2,Não,,Em tratamento,Centro,3400000
+C0277,2025-05-06,Maputo Província,Pneumonia,Masculino,39,Não,,Recuperado,Sul,2350000
+C0278,2025-05-06,Manica,Malária,Masculino,9,Não,,Em tratamento,Centro,2300000
+C0279,2025-05-06,Nampula,Pneumonia,Masculino,2,Sim,7,Recuperado,Norte,6500000
+C0280,2025-05-06,Maputo Província,Pneumonia,Masculino,56,Sim,6,Recuperado,Sul,2350000
+C0281,2025-05-08,Zambézia,Malária,Masculino,0,Sim,3,Recuperado,Centro,6000000
+C0282,2025-05-08,Manica,Diarreia aguda,Masculino,3,Não,,Recuperado,Centro,2300000
+C0283,2025-05-09,Zambézia,Malária,Feminino,9,Sim,4,Recuperado,Centro,6000000
+C0284,2025-05-09,Tete,Malária,Feminino,5,Sim,10,Em tratamento,Centro,3400000
+C0285,2025-05-09,Niassa,Sarampo,Feminino,12,Não,,Recuperado,Norte,1950000
+C0286,2025-05-10,Maputo Província,Diarreia aguda,Masculino,2,Não,,Recuperado,Sul,2350000
+C0287,2025-05-11,Cabo Delgado,Malária,Feminino,7,Não,,Recuperado,Norte,2450000
+C0288,2025-05-12,Maputo Província,Pneumonia,Masculino,48,Não,,Recuperado,Sul,2350000
+C0289,2025-05-12,Cabo Delgado,Malária,Feminino,,Não,,Recuperado,Norte,2450000
+C0290,2025-05-13,Sofala,Diarreia aguda,Feminino,,Sim,5,Recuperado,Centro,2900000
+C0291,2025-05-14,Zambézia,Tuberculose,Masculino,48,Sim,5,Óbito,Centro,6000000
+C0292,2025-05-15,Niassa,Diarreia aguda,Feminino,3,Não,,Em tratamento,Norte,1950000
+C0293,2025-05-15,Cabo Delgado,Diarreia aguda,Masculino,17,Não,,Recuperado,Norte,2450000
+C0294,2025-05-15,Cabo Delgado,Malária,Feminino,6,Não,,Recuperado,Norte,2450000
+C0295,2025-05-15,Tete,Pneumonia,Masculino,,Não,,Recuperado,Centro,3400000
+C0296,2025-05-16,Tete,Pneumonia,Feminino,77,Sim,1,Óbito,Centro,3400000
+C0297,2025-05-17,Sofala,Pneumonia,Feminino,3,Não,,Recuperado,Centro,2900000
+C0298,2025-05-18,Maputo Província,Diarreia aguda,Masculino,8,Não,,Recuperado,Sul,2350000
+C0299,2025-05-19,Zambézia,Malária,Feminino,42,Não,,Recuperado,Centro,6000000
+C0300,2025-05-19,Nampula,Malária,Masculino,12,Não,,Recuperado,Norte,6500000
+C0301,2025-05-20,Sofala,Diarreia aguda,Feminino,42,Não,,Recuperado,Centro,2900000
+C0302,2025-05-20,Nampula,Diarreia aguda,Masculino,,Não,,Em tratamento,Norte,6500000
+C0303,2025-05-20,Manica,Diarreia aguda,Feminino,52,Sim,4,Recuperado,Centro,2300000
+C0304,2025-05-20,Sofala,Cólera,Feminino,9,Sim,1,Em tratamento,Centro,2900000
+C0305,2025-05-21,Sofala,Diarreia aguda,Masculino,30,Sim,1,Óbito,Centro,2900000
+C0306,2025-05-22,Nampula,Tuberculose,Masculino,69,Não,,Em tratamento,Norte,6500000
+C0307,2025-05-22,Maputo Cidade,Tuberculose,Masculino,30,Sim,14,Óbito,Sul,1150000
+C0308,2025-05-22,Niassa,Sarampo,Feminino,10,Sim,4,Recuperado,Norte,1950000
+C0309,2025-05-22,Zambézia,Malária,Masculino,7,Não,,Recuperado,Centro,6000000
+C0310,2025-05-22,Maputo Cidade,Tuberculose,Feminino,49,Não,,Recuperado,Sul,1150000
+C0311,2025-05-22,Inhambane,Malária,Masculino,4,Não,,Recuperado,Sul,1620000
+C0312,2025-05-24,Manica,Diarreia aguda,Feminino,35,Não,,Recuperado,Centro,2300000
+C0313,2025-05-24,Cabo Delgado,Cólera,Masculino,43,Sim,1,Recuperado,Norte,2450000
+C0314,2025-05-24,Nampula,Malária,Masculino,46,Não,,Recuperado,Norte,6500000
+C0315,2025-05-25,Tete,Malária,Masculino,6,Não,,Recuperado,Centro,3400000
+C0316,2025-05-25,Niassa,Malária,Feminino,10,Não,,Recuperado,Norte,1950000
+C0317,2025-05-26,Inhambane,Tuberculose,Masculino,,Sim,18,Em tratamento,Sul,1620000
+C0318,2025-05-27,Maputo Província,Diarreia aguda,Feminino,37,Não,,Recuperado,Sul,2350000
+C0319,2025-05-27,Manica,Tuberculose,Masculino,20,Não,,Recuperado,Centro,2300000
+C0320,2025-05-28,Zambézia,Malária,Masculino,4,Sim,3,Recuperado,Centro,6000000
+C0321,2025-06-02,Sofala,Diarreia aguda,Feminino,6,Não,,Recuperado,Centro,2900000
+C0322,2025-06-02,Sofala,Pneumonia,Feminino,86,Sim,9,,Centro,2900000
+C0323,2025-06-03,Tete,Tuberculose,Masculino,87,Não,,Em tratamento,Centro,3400000
+C0324,2025-06-04,Sofala,Tuberculose,Masculino,84,Sim,4,Em tratamento,Centro,2900000
+C0325,2025-06-04,Sofala,Pneumonia,Masculino,15,Sim,10,Recuperado,Centro,2900000
+C0326,2025-06-05,Nampula,Diarreia aguda,Feminino,4,Não,,Recuperado,Norte,6500000
+C0327,2025-06-05,Sofala,Pneumonia,Masculino,50,Não,,Recuperado,Centro,2900000
+C0328,2025-06-06,Zambézia,Sarampo,Feminino,1,Sim,14,Óbito,Centro,6000000
+C0329,2025-06-06,Nampula,Sarampo,Masculino,4,Sim,4,Recuperado,Norte,6500000
+C0330,2025-06-09,Maputo Cidade,Malária,Feminino,14,Não,,Recuperado,Sul,1150000
+C0331,2025-06-10,Inhambane,Diarreia aguda,Feminino,3,Não,,Recuperado,Sul,1620000
+C0332,2025-06-12,Nampula,Pneumonia,Feminino,1,Não,,Recuperado,Norte,6500000
+C0333,2025-06-13,Maputo Província,Tuberculose,Masculino,38,Não,,Em tratamento,Sul,2350000
+C0334,2025-06-13,Manica,Pneumonia,Masculino,4,Não,,Recuperado,Centro,2300000
+C0335,2025-06-15,Cabo Delgado,Malária,Feminino,1,Sim,5,Recuperado,Norte,2450000
+C0336,2025-06-16,Nampula,Malária,Feminino,4,Sim,6,Recuperado,Norte,6500000
+C0337,2025-06-17,Sofala,Malária,Feminino,2,Não,,Recuperado,Centro,2900000
+C0338,2025-06-20,Sofala,Pneumonia,Feminino,0,Sim,5,Recuperado,Centro,2900000
+C0339,2025-06-20,Nampula,Malária,Feminino,4,Não,,Recuperado,Norte,6500000
+C0340,2025-06-20,Zambézia,Pneumonia,Feminino,3,Sim,6,Recuperado,Centro,6000000
+C0341,2025-06-23,Cabo Delgado,Malária,Feminino,3,Não,,Recuperado,Norte,2450000
+C0342,2025-06-23,Manica,Pneumonia,Feminino,78,Sim,6,Em tratamento,Centro,2300000
+C0343,2025-06-24,Zambézia,Malária,Feminino,1,Não,,Em tratamento,Centro,6000000
+C0344,2025-06-24,Sofala,Tuberculose,Feminino,62,Não,,Em tratamento,Centro,2900000
+C0345,2025-06-26,Zambézia,Malária,Feminino,4,Não,,Recuperado,Centro,6000000
+C0346,2025-06-26,Zambézia,Tuberculose,Masculino,28,Não,,Recuperado,Centro,6000000
+C0347,2025-06-27,Sofala,Diarreia aguda,Masculino,2,Sim,5,Recuperado,Centro,2900000
+C0348,2025-06-28,Cabo Delgado,Malária,Masculino,30,Sim,2,Recuperado,Norte,2450000
+C0349,2025-06-28,Nampula,Pneumonia,Feminino,87,Não,,Recuperado,Norte,6500000
+C0350,2025-06-28,Niassa,Tuberculose,Masculino,19,Não,,Recuperado,Norte,1950000
+C0351,2025-06-28,Zambézia,Pneumonia,Masculino,54,Sim,9,Recuperado,Centro,6000000
+C0352,2025-07-01,Manica,Malária,Feminino,60,Não,,Recuperado,Centro,2300000
+C0353,2025-07-03,Manica,Sarampo,Masculino,0,Não,,Recuperado,Centro,2300000
+C0354,2025-07-04,Nampula,Pneumonia,Feminino,2,Não,,Em tratamento,Norte,6500000
+C0355,2025-07-05,Inhambane,Cólera,Masculino,3,Sim,3,Recuperado,Sul,1620000
+C0356,2025-07-05,Niassa,Pneumonia,Masculino,42,Sim,8,Recuperado,Norte,1950000
+C0357,2025-07-05,Maputo Cidade,Tuberculose,Feminino,17,Sim,14,Em tratamento,Sul,1150000
+C0358,2025-07-06,Sofala,Sarampo,Feminino,10,Sim,6,Recuperado,Centro,2900000
+C0359,2025-07-06,Nampula,Pneumonia,Masculino,2,Não,,Recuperado,Norte,6500000
+C0360,2025-07-06,Niassa,Sarampo,Masculino,3,Não,,Recuperado,Norte,1950000
+C0361,2025-07-07,Cabo Delgado,Sarampo,Feminino,12,Não,,Recuperado,Norte,2450000
+C0362,2025-07-08,Zambézia,Malária,Feminino,1,Sim,1,Recuperado,Centro,6000000
+C0363,2025-07-08,Zambézia,Diarreia aguda,Masculino,4,Sim,12,Recuperado,Centro,6000000
+C0364,2025-07-09,Cabo Delgado,Pneumonia,Masculino,0,Não,,Recuperado,Norte,2450000
+C0365,2025-07-09,Niassa,Malária,Masculino,3,Não,,Em tratamento,Norte,1950000
+C0366,2025-07-11,Zambézia,Tuberculose,Masculino,21,Não,,Recuperado,Centro,6000000
+C0367,2025-07-11,Tete,Diarreia aguda,Feminino,1,Não,,Recuperado,Centro,3400000
+C0368,2025-07-12,Manica,Malária,Feminino,2,Sim,6,Recuperado,Centro,2300000
+C0369,2025-07-13,Tete,Diarreia aguda,Feminino,3,Sim,2,Recuperado,Centro,3400000
+C0370,2025-07-13,Maputo Cidade,Tuberculose,Masculino,,Sim,20,Recuperado,Sul,1150000
+C0371,2025-07-13,Nampula,Pneumonia,Masculino,3,Não,,Recuperado,Norte,6500000
+C0372,2025-07-16,Nampula,Malária,Feminino,1,Não,,,Norte,6500000
+C0373,2025-07-16,Zambézia,Pneumonia,Feminino,81,Sim,3,Recuperado,Centro,6000000
+C0374,2025-07-16,Maputo Cidade,Pneumonia,Feminino,2,Sim,5,Recuperado,Sul,1150000
+C0375,2025-07-16,Maputo Cidade,Tuberculose,Feminino,26,Sim,3,Recuperado,Sul,1150000
+C0376,2025-07-16,Gaza,Tuberculose,Feminino,21,Não,,Recuperado,Sul,1560000
+C0377,2025-07-18,Inhambane,Pneumonia,Feminino,69,Sim,5,Recuperado,Sul,1620000
+C0378,2025-07-19,Zambézia,Diarreia aguda,Masculino,73,Não,,Recuperado,Centro,6000000
+C0379,2025-07-19,Nampula,Malária,Feminino,,Não,,Recuperado,Norte,6500000
+C0380,2025-07-19,Sofala,Diarreia aguda,Masculino,4,Não,,Recuperado,Centro,2900000
+C0381,2025-07-20,Zambézia,Malária,Masculino,40,Sim,2,Recuperado,Centro,6000000
+C0382,2025-07-21,Zambézia,Pneumonia,Feminino,86,Não,,Em tratamento,Centro,6000000
+C0383,2025-07-22,Nampula,Sarampo,Masculino,1,Não,,Recuperado,Norte,6500000
+C0384,2025-07-22,Gaza,Diarreia aguda,Masculino,2,Não,,Recuperado,Sul,1560000
+C0385,2025-07-22,Sofala,Malária,Feminino,43,Não,,Recuperado,Centro,2900000
+C0386,2025-07-23,Tete,Tuberculose,Masculino,34,Não,,Recuperado,Centro,3400000
+C0387,2025-07-24,Zambézia,Sarampo,Masculino,12,Não,,Recuperado,Centro,6000000
+C0388,2025-07-25,Sofala,Tuberculose,Masculino,35,Não,,Recuperado,Centro,2900000
+C0389,2025-07-27,Manica,Sarampo,Masculino,0,Não,,Em tratamento,Centro,2300000
+C0390,2025-07-27,Zambézia,Pneumonia,Feminino,5,Sim,2,Óbito,Centro,6000000
+C0391,2025-08-01,Sofala,Malária,Masculino,9,Sim,4,Recuperado,Centro,2900000
+C0392,2025-08-02,Niassa,Diarreia aguda,Feminino,62,Não,,Recuperado,Norte,1950000
+C0393,2025-08-02,Maputo Cidade,Tuberculose,Feminino,43,Sim,4,Em tratamento,Sul,1150000
+C0394,2025-08-05,Nampula,Pneumonia,Feminino,11,Não,,Recuperado,Norte,6500000
+C0395,2025-08-06,Nampula,Sarampo,Feminino,1,Sim,4,Recuperado,Norte,6500000
+C0396,2025-08-08,Tete,Pneumonia,Feminino,86,Não,,Em tratamento,Centro,3400000
+C0397,2025-08-09,Zambézia,Pneumonia,Feminino,52,Não,,Recuperado,Centro,6000000
+C0398,2025-08-10,Tete,Malária,Feminino,12,Não,,Recuperado,Centro,3400000
+C0399,2025-08-11,Sofala,Pneumonia,Masculino,57,Sim,2,Recuperado,Centro,2900000
+C0400,2025-08-11,Nampula,Pneumonia,Masculino,2,Não,,Recuperado,Norte,6500000
+C0401,2025-08-12,Manica,Malária,Masculino,6,Não,,Recuperado,Centro,2300000
+C0402,2025-08-14,Maputo Cidade,Tuberculose,Feminino,27,Não,,Recuperado,Sul,1150000
+C0403,2025-08-15,Maputo Cidade,Pneumonia,Feminino,7,Sim,2,Recuperado,Sul,1150000
+C0404,2025-08-16,Maputo Província,Malária,Masculino,2,Sim,3,Recuperado,Sul,2350000
+C0405,2025-08-16,Cabo Delgado,Pneumonia,Masculino,60,Sim,4,Recuperado,Norte,2450000
+C0406,2025-08-17,Gaza,Tuberculose,Masculino,24,Sim,16,Recuperado,Sul,1560000
+C0407,2025-08-18,Maputo Província,Pneumonia,Feminino,5,Sim,12,Recuperado,Sul,2350000
+C0408,2025-08-18,Tete,Sarampo,Masculino,6,Sim,1,Recuperado,Centro,3400000
+C0409,2025-08-18,Nampula,Malária,Masculino,10,Não,,Recuperado,Norte,6500000
+C0410,2025-08-19,Nampula,Tuberculose,Feminino,33,Sim,16,Recuperado,Norte,6500000
+C0411,2025-08-20,Cabo Delgado,Sarampo,Masculino,8,Não,,Recuperado,Norte,2450000
+C0412,2025-08-22,Sofala,Pneumonia,Feminino,4,Sim,11,Recuperado,Centro,2900000
+C0413,2025-08-22,Tete,Pneumonia,Feminino,89,Não,,Recuperado,Centro,3400000
+C0414,2025-08-23,Maputo Província,Tuberculose,Feminino,52,Sim,13,Em tratamento,Sul,2350000
+C0415,2025-08-23,Nampula,Pneumonia,Masculino,13,Não,,Recuperado,Norte,6500000
+C0416,2025-08-23,Zambézia,Malária,Feminino,3,Sim,4,Recuperado,Centro,6000000
+C0417,2025-08-25,Nampula,Tuberculose,Feminino,20,Não,,Em tratamento,Norte,6500000
+C0418,2025-08-26,Maputo Província,Tuberculose,Masculino,28,Sim,9,Em tratamento,Sul,2350000
+C0419,2025-08-26,Cabo Delgado,Tuberculose,Masculino,36,Não,,Em tratamento,Norte,2450000
+C0420,2025-08-27,Tete,Pneumonia,Feminino,0,Não,,Em tratamento,Centro,3400000
+C0421,2025-08-28,Nampula,Malária,Feminino,13,Não,,,Norte,6500000
+C0422,2025-09-01,Tete,Pneumonia,Feminino,69,Sim,7,Óbito,Centro,3400000
+C0423,2025-09-02,Zambézia,Sarampo,,1,Não,,Recuperado,Centro,6000000
+C0424,2025-09-04,Gaza,Tuberculose,Feminino,60,Sim,23,Em tratamento,Sul,1560000
+C0425,2025-09-04,Sofala,Diarreia aguda,Masculino,88,Não,,Recuperado,Centro,2900000
+C0426,2025-09-05,Sofala,Pneumonia,Masculino,1,Não,,Recuperado,Centro,2900000
+C0427,2025-09-05,Maputo Cidade,Sarampo,Feminino,6,Não,,Recuperado,Sul,1150000
+C0428,2025-09-06,Niassa,Diarreia aguda,Masculino,0,Não,,Recuperado,Norte,1950000
+C0429,2025-09-06,Nampula,Pneumonia,Feminino,4,Não,,Recuperado,Norte,6500000
+C0430,2025-09-07,Sofala,Malária,Masculino,18,Não,,Recuperado,Centro,2900000
+C0431,2025-09-08,Cabo Delgado,Diarreia aguda,Feminino,24,Sim,6,Recuperado,Norte,2450000
+C0432,2025-09-09,Tete,Malária,Feminino,10,Sim,15,Recuperado,Centro,3400000
+C0433,2025-09-10,Nampula,Diarreia aguda,Feminino,4,Sim,2,Em tratamento,Norte,6500000
+C0434,2025-09-10,Sofala,Tuberculose,Feminino,9,Sim,14,Óbito,Centro,2900000
+C0435,2025-09-10,Maputo Cidade,Tuberculose,Masculino,58,Sim,31,Recuperado,Sul,1150000
+C0436,2025-09-10,Maputo Cidade,Tuberculose,Feminino,,Sim,46,Recuperado,Sul,1150000
+C0437,2025-09-11,Gaza,Diarreia aguda,Masculino,2,Não,,Recuperado,Sul,1560000
+C0438,2025-09-11,Maputo Província,Tuberculose,Masculino,41,Não,,Recuperado,Sul,2350000
+C0439,2025-09-13,Gaza,Tuberculose,Feminino,44,Sim,7,Em tratamento,Sul,1560000
+C0440,2025-09-13,Maputo Província,Tuberculose,Feminino,49,Sim,11,Em tratamento,Sul,2350000
+C0441,2025-09-15,Tete,Tuberculose,Feminino,47,Não,,Recuperado,Centro,3400000
+C0442,2025-09-15,Nampula,Sarampo,Masculino,3,Não,,Recuperado,Norte,6500000
+C0443,2025-09-15,Sofala,Malária,Masculino,15,Não,,Recuperado,Centro,2900000
+C0444,2025-09-16,Cabo Delgado,Diarreia aguda,Feminino,45,Não,,Recuperado,Norte,2450000
+C0445,2025-09-16,Tete,Sarampo,Feminino,14,Sim,3,Recuperado,Centro,3400000
+C0446,2025-09-17,Manica,Pneumonia,Feminino,48,Sim,7,Recuperado,Centro,2300000
+C0447,2025-09-19,Inhambane,Malária,Feminino,4,Sim,5,Recuperado,Sul,1620000
+C0448,2025-09-19,Maputo Província,Pneumonia,Masculino,81,Sim,9,Recuperado,Sul,2350000
+C0449,2025-09-20,Zambézia,Pneumonia,Masculino,,Não,,Recuperado,Centro,6000000
+C0450,2025-09-21,Tete,Sarampo,Feminino,1,Sim,9,Recuperado,Centro,3400000
+C0451,2025-09-22,Tete,Sarampo,Feminino,0,Não,,Recuperado,Centro,3400000
+C0452,2025-09-27,Zambézia,Pneumonia,Masculino,65,Não,,Recuperado,Centro,6000000
+C0453,2025-09-28,Sofala,Tuberculose,Masculino,55,Não,,,Centro,2900000
+C0454,2025-09-28,Niassa,Diarreia aguda,Feminino,3,Não,,Recuperado,Norte,1950000
+C0455,2025-10-01,Niassa,Malária,Masculino,32,Sim,4,Recuperado,Norte,1950000
+C0456,2025-10-01,Manica,Diarreia aguda,Feminino,55,Não,,Recuperado,Centro,2300000
+C0457,2025-10-02,Gaza,Malária,Feminino,9,Não,,Recuperado,Sul,1560000
+C0458,2025-10-03,Maputo Cidade,Tuberculose,Feminino,60,Sim,15,Óbito,Sul,1150000
+C0459,2025-10-04,Niassa,Malária,Feminino,56,Não,,Recuperado,Norte,1950000
+C0460,2025-10-05,Nampula,Sarampo,Feminino,1,Não,,Recuperado,Norte,6500000
+C0461,2025-10-05,Cabo Delgado,Tuberculose,Masculino,32,Não,,Recuperado,Norte,2450000
+C0462,2025-10-06,Nampula,Cólera,Masculino,4,Sim,3,Recuperado,Norte,6500000
+C0463,2025-10-06,Cabo Delgado,Diarreia aguda,Feminino,89,Não,,Recuperado,Norte,2450000
+C0464,2025-10-06,Maputo Província,Diarreia aguda,Feminino,14,Sim,11,Recuperado,Sul,2350000
+C0465,2025-10-07,Nampula,Diarreia aguda,Masculino,0,Não,,Recuperado,Norte,6500000
+C0466,2025-10-07,Zambézia,Sarampo,Feminino,13,Sim,3,Recuperado,Centro,6000000
+C0467,2025-10-08,Nampula,Sarampo,Feminino,4,Não,,Recuperado,Norte,6500000
+C0468,2025-10-09,Tete,Diarreia aguda,Masculino,34,Não,,Recuperado,Centro,3400000
+C0469,2025-10-09,Nampula,Malária,Masculino,17,Não,,Recuperado,Norte,6500000
+C0470,2025-10-09,Nampula,Diarreia aguda,Feminino,3,Não,,Recuperado,Norte,6500000
+C0471,2025-10-09,Nampula,Malária,Masculino,54,Não,,Recuperado,Norte,6500000
+C0472,2025-10-09,Maputo Cidade,Tuberculose,Feminino,9,Não,,Em tratamento,Sul,1150000
+C0473,2025-10-09,Nampula,Malária,Feminino,29,Não,,Recuperado,Norte,6500000
+C0474,2025-10-10,Gaza,Tuberculose,Feminino,25,Não,,Recuperado,Sul,1560000
+C0475,2025-10-10,Nampula,Malária,Masculino,37,Sim,7,Recuperado,Norte,6500000
+C0476,2025-10-12,Maputo Província,Tuberculose,Feminino,8,Não,,Óbito,Sul,2350000
+C0477,2025-10-12,Manica,Malária,Masculino,5,Sim,4,Recuperado,Centro,2300000
+C0478,2025-10-12,Maputo Cidade,Tuberculose,Masculino,59,Não,,Recuperado,Sul,1150000
+C0479,2025-10-12,Cabo Delgado,Diarreia aguda,Feminino,32,Não,,Recuperado,Norte,2450000
+C0480,2025-10-13,Zambézia,Sarampo,Feminino,13,Não,,Recuperado,Centro,6000000
+C0481,2025-10-14,Nampula,Malária,Feminino,12,Sim,2,Recuperado,Norte,6500000
+C0482,2025-10-16,Nampula,Diarreia aguda,Feminino,50,Sim,2,Recuperado,Norte,6500000
+C0483,2025-10-16,Maputo Cidade,Tuberculose,Masculino,64,Não,,Em tratamento,Sul,1150000
+C0484,2025-10-18,Zambézia,Pneumonia,Feminino,2,Sim,5,Recuperado,Centro,6000000
+C0485,2025-10-18,Zambézia,Sarampo,Feminino,1,Sim,1,Recuperado,Centro,6000000
+C0486,2025-10-18,Nampula,Sarampo,Feminino,1,Não,,Recuperado,Norte,6500000
+C0487,2025-10-18,Sofala,Diarreia aguda,Feminino,48,Sim,3,Em tratamento,Centro,2900000
+C0488,2025-10-19,Nampula,Sarampo,Masculino,1,Não,,Recuperado,Norte,6500000
+C0489,2025-10-19,Tete,Pneumonia,Masculino,84,Não,,Recuperado,Centro,3400000
+C0490,2025-10-19,Zambézia,Malária,Masculino,,Não,,Recuperado,Centro,6000000
+C0491,2025-10-21,Tete,Diarreia aguda,Masculino,8,Não,,Recuperado,Centro,3400000
+C0492,2025-10-21,Tete,Malária,Feminino,1,Não,,Recuperado,Centro,3400000
+C0493,2025-10-21,Nampula,Tuberculose,Masculino,52,Sim,7,Em tratamento,Norte,6500000
+C0494,2025-10-21,Sofala,Malária,Feminino,37,Não,,Recuperado,Centro,2900000
+C0495,2025-10-22,Inhambane,Tuberculose,Feminino,27,Não,,Óbito,Sul,1620000
+C0496,2025-10-23,Maputo Cidade,Tuberculose,Masculino,35,Sim,4,Recuperado,Sul,1150000
+C0497,2025-10-24,Zambézia,Pneumonia,Feminino,48,Sim,6,Recuperado,Centro,6000000
+C0498,2025-10-25,Gaza,Cólera,Feminino,40,Não,,Recuperado,Sul,1560000
+C0499,2025-10-25,Nampula,Sarampo,Feminino,31,Não,,Recuperado,Norte,6500000
+C0500,2025-10-27,Niassa,Diarreia aguda,Feminino,2,Não,,Recuperado,Norte,1950000
+C0501,2025-10-28,Gaza,Diarreia aguda,Feminino,67,Não,,Óbito,Sul,1560000
+C0502,2025-10-28,Maputo Cidade,Malária,Feminino,,Não,,Recuperado,Sul,1150000
+C0503,2025-11-01,Zambézia,Malária,Feminino,46,Sim,3,Recuperado,Centro,6000000
+C0504,2025-11-02,Cabo Delgado,Malária,Feminino,10,Sim,1,Óbito,Norte,2450000
+C0505,2025-11-02,Niassa,Sarampo,Feminino,8,Sim,5,Recuperado,Norte,1950000
+C0506,2025-11-03,Maputo Província,Sarampo,Feminino,6,Sim,4,Recuperado,Sul,2350000
+C0507,2025-11-04,Cabo Delgado,Tuberculose,Masculino,61,Sim,8,Recuperado,Norte,2450000
+C0508,2025-11-06,Niassa,Diarreia aguda,Masculino,6,Não,,Recuperado,Norte,1950000
+C0509,2025-11-07,Cabo Delgado,Sarampo,Masculino,14,Sim,3,Em tratamento,Norte,2450000
+C0510,2025-11-07,Niassa,Malária,Feminino,21,Sim,5,Recuperado,Norte,1950000
+C0511,2025-11-07,Sofala,Malária,Feminino,40,Sim,2,Recuperado,Centro,2900000
+C0512,2025-11-07,Tete,Diarreia aguda,Feminino,83,Não,,Recuperado,Centro,3400000
+C0513,2025-11-07,Cabo Delgado,Cólera,Masculino,23,Sim,3,Recuperado,Norte,2450000
+C0514,2025-11-08,Cabo Delgado,Malária,Masculino,52,Não,,Recuperado,Norte,2450000
+C0515,2025-11-09,Maputo Província,Diarreia aguda,Feminino,4,Sim,3,Recuperado,Sul,2350000
+C0516,2025-11-09,Sofala,Malária,Masculino,37,Não,,Recuperado,Centro,2900000
+C0517,2025-11-09,Maputo Província,Tuberculose,Masculino,27,Não,,Recuperado,Sul,2350000
+C0518,2025-11-09,Gaza,Diarreia aguda,Feminino,2,Não,,Recuperado,Sul,1560000
+C0519,2025-11-10,Niassa,Malária,Masculino,5,Não,,Recuperado,Norte,1950000
+C0520,2025-11-10,Manica,Pneumonia,Masculino,4,Não,,Recuperado,Centro,2300000
+C0521,2025-11-11,Manica,Diarreia aguda,Masculino,2,Não,,Recuperado,Centro,2300000
+C0522,2025-11-11,Gaza,Diarreia aguda,Masculino,13,Sim,2,Recuperado,Sul,1560000
+C0523,2025-11-11,Manica,Sarampo,Masculino,10,Sim,6,,Centro,2300000
+C0524,2025-11-11,Maputo Província,Malária,Feminino,2,Não,,Recuperado,Sul,2350000
+C0525,2025-11-12,Nampula,Pneumonia,Masculino,38,Sim,6,Recuperado,Norte,6500000
+C0526,2025-11-14,Cabo Delgado,Pneumonia,Masculino,88,Não,,Recuperado,Norte,2450000
+C0527,2025-11-14,Tete,Malária,Masculino,0,Não,,Recuperado,Centro,3400000
+C0528,2025-11-14,Cabo Delgado,Cólera,Feminino,30,Sim,4,Recuperado,Norte,2450000
+C0529,2025-11-15,Sofala,Tuberculose,Feminino,70,Sim,16,Recuperado,Centro,2900000
+C0530,2025-11-15,Tete,Pneumonia,Feminino,2,Sim,4,Recuperado,Centro,3400000
+C0531,2025-11-16,Tete,Sarampo,Masculino,2,Sim,12,Recuperado,Centro,3400000
+C0532,2025-11-16,Manica,Malária,Feminino,20,Sim,2,Recuperado,Centro,2300000
+C0533,2025-11-17,Tete,Malária,Masculino,10,Sim,6,Recuperado,Centro,3400000
+C0534,2025-11-18,Tete,Sarampo,Masculino,61,Sim,5,Recuperado,Centro,3400000
+C0535,2025-11-18,Zambézia,Malária,Masculino,3,Sim,3,Recuperado,Centro,6000000
+C0536,2025-11-18,Manica,Sarampo,Masculino,3,Sim,5,Em tratamento,Centro,2300000
+C0537,2025-11-19,Manica,Malária,Feminino,59,Não,,Recuperado,Centro,2300000
+C0538,2025-11-19,Maputo Cidade,Tuberculose,Masculino,61,Sim,13,Recuperado,Sul,1150000
+C0539,2025-11-20,Maputo Província,Diarreia aguda,Masculino,41,Sim,2,Recuperado,Sul,2350000
+C0540,2025-11-21,Zambézia,Sarampo,Feminino,,Não,,Recuperado,Centro,6000000
+C0541,2025-11-23,Tete,Diarreia aguda,Feminino,35,Não,,Recuperado,Centro,3400000
+C0542,2025-11-23,Gaza,Malária,Feminino,30,Sim,6,Recuperado,Sul,1560000
+C0543,2025-11-23,Zambézia,Malária,Feminino,41,Sim,1,Recuperado,Centro,6000000
+C0544,2025-11-24,Cabo Delgado,Cólera,Masculino,48,Não,,Recuperado,Norte,2450000
+C0545,2025-11-24,Zambézia,Malária,Feminino,0,Não,,Recuperado,Centro,6000000
+C0546,2025-11-25,Maputo Cidade,Pneumonia,Feminino,0,Não,,Recuperado,Sul,1150000
+C0547,2025-11-28,Zambézia,Malária,Feminino,0,Sim,2,Recuperado,Centro,6000000
+C0548,2025-12-01,Sofala,Diarreia aguda,,9,Não,,Recuperado,Centro,2900000
+C0549,2025-12-01,Cabo Delgado,Cólera,Masculino,40,Sim,2,Recuperado,Norte,2450000
+C0550,2025-12-02,Cabo Delgado,Cólera,Masculino,9,Não,,Recuperado,Norte,2450000
+C0551,2025-12-02,Sofala,Malária,Feminino,44,Não,,,Centro,2900000
+C0552,2025-12-02,Cabo Delgado,Pneumonia,Feminino,53,Não,,Recuperado,Norte,2450000
+C0553,2025-12-04,Sofala,Tuberculose,Masculino,62,Sim,19,Recuperado,Centro,2900000
+C0554,2025-12-04,Cabo Delgado,Malária,Masculino,,Não,,Recuperado,Norte,2450000
+C0555,2025-12-06,Maputo Província,Cólera,Feminino,10,Sim,2,Recuperado,Sul,2350000
+C0556,2025-12-06,Zambézia,Diarreia aguda,Masculino,8,Não,,Recuperado,Centro,6000000
+C0557,2025-12-07,Sofala,Diarreia aguda,Masculino,15,Não,,Recuperado,Centro,2900000
+C0558,2025-12-07,Nampula,Sarampo,Masculino,36,Não,,Recuperado,Norte,6500000
+C0559,2025-12-08,Cabo Delgado,Malária,Feminino,4,Sim,2,Recuperado,Norte,2450000
+C0560,2025-12-09,Zambézia,Diarreia aguda,Masculino,2,Não,,Recuperado,Centro,6000000
+C0561,2025-12-09,Tete,Malária,Feminino,26,Sim,10,Recuperado,Centro,3400000
+C0562,2025-12-09,Maputo Cidade,Tuberculose,Feminino,83,Não,,Recuperado,Sul,1150000
+C0563,2025-12-10,Niassa,Malária,Feminino,33,Não,,Recuperado,Norte,1950000
+C0564,2025-12-10,Cabo Delgado,Sarampo,Masculino,3,Sim,11,Recuperado,Norte,2450000
+C0565,2025-12-10,Gaza,Malária,Feminino,13,Não,,Recuperado,Sul,1560000
+C0566,2025-12-11,Cabo Delgado,Malária,Feminino,14,Sim,6,Recuperado,Norte,2450000
+C0567,2025-12-13,Cabo Delgado,Diarreia aguda,Feminino,1,Sim,1,Recuperado,Norte,2450000
+C0568,2025-12-14,Sofala,Cólera,Feminino,1,Sim,4,Recuperado,Centro,2900000
+C0569,2025-12-15,Tete,Tuberculose,Masculino,46,Sim,10,Em tratamento,Centro,3400000
+C0570,2025-12-15,Nampula,Diarreia aguda,Masculino,1,Não,,Recuperado,Norte,6500000
+C0571,2025-12-15,Cabo Delgado,Sarampo,Feminino,2,Sim,3,Recuperado,Norte,2450000
+C0572,2025-12-16,Nampula,Malária,Feminino,8,Não,,Recuperado,Norte,6500000
+C0573,2025-12-16,Manica,Malária,Masculino,4,Não,,Recuperado,Centro,2300000
+C0574,2025-12-16,Cabo Delgado,Sarampo,Masculino,2,Sim,5,Recuperado,Norte,2450000
+C0575,2025-12-16,Maputo Cidade,Diarreia aguda,Feminino,22,Não,,Recuperado,Sul,1150000
+C0576,2025-12-17,Zambézia,Malária,Feminino,6,Não,,Recuperado,Centro,6000000
+C0577,2025-12-18,Nampula,Malária,Masculino,20,Não,,Recuperado,Norte,6500000
+C0578,2025-12-18,Manica,Diarreia aguda,Masculino,70,Sim,7,Recuperado,Centro,2300000
+C0579,2025-12-19,Zambézia,Malária,Feminino,24,Sim,6,Recuperado,Centro,6000000
+C0580,2025-12-19,Zambézia,Diarreia aguda,Masculino,39,Não,,Recuperado,Centro,6000000
+C0581,2025-12-20,Niassa,Malária,Feminino,9,Não,,Recuperado,Norte,1950000
+C0582,2025-12-20,Zambézia,Cólera,Masculino,38,Não,,Recuperado,Centro,6000000
+C0583,2025-12-21,Tete,Malária,Feminino,10,Não,,Recuperado,Centro,3400000
+C0584,2025-12-21,Tete,Pneumonia,Feminino,4,Sim,10,Em tratamento,Centro,3400000
+C0585,2025-12-22,Inhambane,Diarreia aguda,Masculino,0,Não,,Recuperado,Sul,1620000
+C0586,2025-12-22,Tete,Cólera,Feminino,44,Não,,Recuperado,Centro,3400000
+C0587,2025-12-22,Tete,Pneumonia,Feminino,8,Não,,Recuperado,Centro,3400000
+C0588,2025-12-23,Gaza,Diarreia aguda,Feminino,12,Não,,Recuperado,Sul,1560000
+C0589,2025-12-24,Cabo Delgado,Malária,Feminino,30,Sim,7,Recuperado,Norte,2450000
+C0590,2025-12-24,Sofala,Malária,Feminino,41,Não,,Recuperado,Centro,2900000
+C0591,2025-12-24,Nampula,Malária,Masculino,1,Sim,11,Recuperado,Norte,6500000
+C0592,2025-12-24,Nampula,Sarampo,Feminino,7,Sim,3,Recuperado,Norte,6500000
+C0593,2025-12-25,Inhambane,Tuberculose,Masculino,39,Sim,22,Óbito,Sul,1620000
+C0594,2025-12-27,Nampula,Sarampo,Masculino,31,Não,,Recuperado,Norte,6500000
+C0595,2025-12-27,Manica,Pneumonia,Masculino,77,Não,,Recuperado,Centro,2300000
+C0596,2025-12-27,Zambézia,Cólera,Masculino,43,Não,,Recuperado,Centro,6000000
+C0597,2025-12-28,Sofala,Sarampo,Feminino,2,Sim,2,Recuperado,Centro,2900000
+C0598,2025-12-28,Tete,Diarreia aguda,Feminino,89,Sim,3,Recuperado,Centro,3400000
+C0599,2025-12-28,Zambézia,Malária,Masculino,43,Sim,5,Recuperado,Centro,6000000
+C0600,2025-12-28,Nampula,Sarampo,Masculino,10,Sim,5,Recuperado,Norte,6500000
